@@ -1,0 +1,18 @@
+{
+    "userid": "3",
+    "Adresse": {
+        "Straße": "BhfStr",
+        "Hausnummer": [
+            1
+        ],
+        "PLZ": [5021],
+        "Ort": "Düsseldorf"
+    },
+    "Name": "Carsten",
+    "Hobbies": [
+        "Lesen",
+        "Sport"
+    ],
+    "Nachname": "Kevin",
+    "Alter": 57
+}

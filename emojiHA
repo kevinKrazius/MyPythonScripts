@@ -1,0 +1,24 @@
+# Aufgabe 2: Bibliotheken
+# 2.1 Installiere die emoji-Bibliothek
+# 2.2 Informiere dich darüber, wie man diese Bibliothek nutzen kann
+# 2.3 Importiere diese Bibliothek in ein neues Python-Skript und erstelle ein paar Beispiele (mindestens 2)
+
+
+# # Natürlich! Die `emoji`-Bibliothek ist eine einfache und praktische Möglichkeit, Emojis in Python zu verwenden. 
+# # Hier sind die Schritte, um die Bibliothek zu installieren, zu nutzen und einige Beispiele zu erstellen: 
+# # ### Schritte: **2.1 Installation der `emoji`-Bibliothek:** Öffnet dein Terminal oder deine Kommandozeile 
+# und gib folgenden Befehl ein:
+# # ` `` pip install emoji ``` **2.2 Nutzung der `emoji`-Bibliothek:** Die 
+
+import emoji
+
+# Beispiel 1: Emoji in einer Nachricht anzeigen
+message = emoji.emojize('Hallo! :smiley:')
+print(message)
+
+# Beispiel 2: Liste einiger Emojis anzeigen
+print("Einige Emojis:")
+print(emoji.emojize(":thumbs_up:"))
+print(emoji.emojize(":cat:"))
+print(emoji.emojize(":rocket:"))
+print(emoji.emojize(":rainbow:"))
