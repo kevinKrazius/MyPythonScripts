@@ -21,3 +21,4 @@ eingabe = input("Gib einen englischen Begriff ein, den du übersetzen möchtest:
 
 uebersetzung = uebersetze(eingabe)
 print(uebersetzung)
+print("test")
